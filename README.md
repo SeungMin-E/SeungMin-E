@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&text=Hello%Everyone!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&text=Hello!&animation=fadeIn)
 
 ### Hi there  👋
 반갑습니다.<br>
