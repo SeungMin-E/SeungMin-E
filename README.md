@@ -1,15 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&text=Hello!&animation=fadeIn)
 
 ### Hi there  👋
-반갑습니다.<br>
+여기에 오신분들 모두 반갑습니다. 평범한 이승민입니다.<br>
 
 
 
 🔭 portfolio List <br>
-http://43.200.5.22/<br>
-💬 저에 대해서 애기하자면 웹개발자를 꿈꾸고 있습니다.<br>
+프로젝트 : http://43.200.5.22/<br>
+          http://43.200.5.22:8080 <br>
+💬 저에 대해서 애기하자면 아직은 많이 부족하지만은 웹개발자를 꿈꾸고 있습니다.<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeungMin-E&theme=nord_dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeungMin-E&theme=flat&column=7)](https://github.com/SeungMin-E/)
+
 
 
 🌱 learning skills <br>
@@ -31,7 +32,7 @@ http://43.200.5.22/<br>
 
 
 
-📫 How to reach me: <br>
+📫 연락처: <br>
 gmail : rainy2368@gmail.com<br>
 kakao : rainy2368@kakao.com
 <br>
